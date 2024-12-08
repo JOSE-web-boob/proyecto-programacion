@@ -54,12 +54,5 @@ ANÁLISIS INTEGRAL PARA REHABILITACIÓN DEL PUENTE DEL ARROYO SECO
 
 
 
-
-
-
-
-
-
-
 ## Conclusiones
-Conclusiones del proyecto y posibles mejoras futuras.
+La rehabilitación del puente del Arroyo Seco requiere una combinación de análisis técnico y soluciones innovadoras. Las herramientas computacionales y geoespaciales resultaron fundamentales para diseñar un plan integral que aborda tanto los riesgos climáticos como las necesidades de la comunidad. La implementación de medidas basadas en estos análisis puede garantizar la seguridad y funcionalidad del puente en el largo plazo. 
